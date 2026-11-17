@@ -1,0 +1,26 @@
+{
+  "name": "rec",
+  "version": "1.0.0",
+  "description": "- HTML5\r - CSS3\r - Bootstrap 5\r - JavaScript\r - jQuery\r - Playwright\r - Git e GitHub",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisabieniek/recuperacao-uc15.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisabieniek/recuperacao-uc15/issues"
+  },
+  "homepage": "https://github.com/luisabieniek/recuperacao-uc15#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1"
+  }
+}

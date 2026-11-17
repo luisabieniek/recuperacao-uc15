@@ -32,4 +32,3 @@ Nomenclatura de arquivos.
 Associação de labels.
 Responsividade.
 Estrutura semântica.
-Os problemas encontrados foram corrigidos antes da entrega.
